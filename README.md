@@ -9,4 +9,5 @@ The project is completed by the following stages/steps:
 4. Analyzing the data by visualizing the percentage of shipping based on shipmode
 5. Creating report to see sales over the city, region and market
 6. Tables of all the visualizations
-The video presentation of 'Global super store' PowerBI analysis is also attached with this project to make the sales report more interactive.
+   
+A video presentation is also attached with this project to make this PowerBI sales analysis more interactive.
