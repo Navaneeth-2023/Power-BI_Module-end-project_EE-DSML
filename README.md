@@ -1,4 +1,4 @@
-# Power-BI_Module-end-project_EE-DSML
+# PowerBI_Module-end-project_EE-DSML
 Power BI module end project
 
 This Powewr-BI project gives a detailed report on 'Global super store' sale transactions based on the given dataset. The Power-BI dashboard and dataset is also attached with this project.
